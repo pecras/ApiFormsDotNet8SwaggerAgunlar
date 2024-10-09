@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiForms")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c93149379e38dfba8a2ea8cf74dc23a59f052f9b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiForms")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiForms")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

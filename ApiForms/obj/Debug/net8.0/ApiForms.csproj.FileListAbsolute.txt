@@ -30,3 +30,4 @@
 /media/rafael/DocumentosLinux/c#/ApiLoans/ApiForms/obj/Debug/net8.0/ApiForms.pdb
 /media/rafael/DocumentosLinux/c#/ApiLoans/ApiForms/obj/Debug/net8.0/ApiForms.genruntimeconfig.cache
 /media/rafael/DocumentosLinux/c#/ApiLoans/ApiForms/obj/Debug/net8.0/ref/ApiForms.dll
+/media/rafael/DocumentosLinux/c#/ApiLoans/ApiForms/obj/Debug/net8.0/ApiForms.sourcelink.json
